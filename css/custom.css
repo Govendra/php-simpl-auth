@@ -1,0 +1,44 @@
+a{
+    text-decoration: none !important;
+}
+/* .form-main{
+    border: 1px red solid;
+} */
+.input-item{
+    border-bottom: 1px black solid;
+    padding: 0.5rem;
+}
+.input-item label{
+    width: 100%;
+    /* font-weight: bold; */
+    margin-bottom: 0.5rem;
+}
+.input-item i{
+    margin: 0 0.5rem;
+}
+.input-item input{
+    width: 75%;
+    border: none;
+    outline: none;
+    background-color: #fff !important;
+}
+.input-item input:visited{
+    background-color: #fff !important;
+}
+#forgotBtn{
+    background-color: #fff !important;
+    border: none;
+}
+#forgotBtn:hover{
+    color: violet;
+}
+#submitBtn{
+    width: 100%;
+    padding: 0.5rem;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    border-radius: 500rem;
+    background: rgb(188,186,213);
+    background: linear-gradient(90deg, rgba(188,186,213,1) 0%, rgba(127,126,182,1) 32%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);
+}
